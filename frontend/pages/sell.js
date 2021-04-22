@@ -1,7 +1,7 @@
 export default function SellPage() {
   return (
     <div>
-      <p>Sell!</p>
+      <p>Sell you. Hot reload!</p>
     </div>
   );
 }
